@@ -1,0 +1,77 @@
+{
+  "category": "wednesday",
+  "version": 1,
+  "image_spec": {
+    "aspect_ratio": "1:1",
+    "recommended_size_px": 512,
+    "preferred_format": "webp",
+    "display_shape": "circle",
+    "framing": "face_and_small_upper_neck",
+    "one_character_per_file": true
+  },
+  "characters": [
+    {
+      "id": "wednesday-addams",
+      "name": "Wednesday Addams",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "enid-sinclair",
+      "name": "Enid Sinclair",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "morticia-addams",
+      "name": "Morticia Addams",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "gomez-addams",
+      "name": "Gomez Addams",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "uncle-fester",
+      "name": "Uncle Fester",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "bianca-barclay",
+      "name": "Bianca Barclay",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "xavier-thorpe",
+      "name": "Xavier Thorpe",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "tyler-galpin",
+      "name": "Tyler Galpin",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "larissa-weems",
+      "name": "Larissa Weems",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    }
+  ]
+}
