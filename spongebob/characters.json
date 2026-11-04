@@ -1,0 +1,70 @@
+{
+  "category": "spongebob",
+  "version": 1,
+  "image_spec": {
+    "aspect_ratio": "1:1",
+    "recommended_size_px": 512,
+    "preferred_format": "webp",
+    "display_shape": "circle",
+    "framing": "face_and_small_upper_neck",
+    "one_character_per_file": true
+  },
+  "characters": [
+    {
+      "id": "spongebob-squarepants",
+      "name": "SpongeBob SquarePants",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "patrick-star",
+      "name": "Patrick Star",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "squidward-tentacles",
+      "name": "Squidward Tentacles",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "sandy-cheeks",
+      "name": "Sandy Cheeks",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "mr-krabs",
+      "name": "Mr. Krabs",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "plankton",
+      "name": "Plankton",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "gary",
+      "name": "Gary",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "pearl-krabs",
+      "name": "Pearl Krabs",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    }
+  ]
+}
