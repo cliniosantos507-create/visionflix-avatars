@@ -1,0 +1,77 @@
+{
+  "category": "sesame-street",
+  "version": 1,
+  "image_spec": {
+    "aspect_ratio": "1:1",
+    "recommended_size_px": 512,
+    "preferred_format": "webp",
+    "display_shape": "circle",
+    "framing": "face_and_small_upper_neck",
+    "one_character_per_file": true
+  },
+  "characters": [
+    {
+      "id": "elmo",
+      "name": "Elmo",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "cookie-monster",
+      "name": "Cookie Monster",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "big-bird",
+      "name": "Big Bird",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "oscar-the-grouch",
+      "name": "Oscar the Grouch",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "grover",
+      "name": "Grover",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "bert",
+      "name": "Bert",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "ernie",
+      "name": "Ernie",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "count-von-count",
+      "name": "Count von Count",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "abby-cadabby",
+      "name": "Abby Cadabby",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    }
+  ]
+}
