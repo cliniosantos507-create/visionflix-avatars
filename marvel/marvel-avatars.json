@@ -31,7 +31,7 @@
       "name": "Thor",
       "image_file": "thor.png",
       "image_status": "prepared",
-      "license_status": verified"
+      "license_status": "verified"
     },
     {
       "id": "black-widow",
