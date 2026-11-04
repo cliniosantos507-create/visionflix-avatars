@@ -1,0 +1,98 @@
+{
+  "category": "disney-classics",
+  "version": 1,
+  "image_spec": {
+    "aspect_ratio": "1:1",
+    "recommended_size_px": 512,
+    "preferred_format": "webp",
+    "display_shape": "circle",
+    "framing": "face_and_small_upper_neck",
+    "one_character_per_file": true
+  },
+  "characters": [
+    {
+      "id": "simba",
+      "name": "Simba",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "mufasa",
+      "name": "Mufasa",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "timon",
+      "name": "Timon",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "pumbaa",
+      "name": "Pumbaa",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "bambi",
+      "name": "Bambi",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "dumbo",
+      "name": "Dumbo",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "peter-pan",
+      "name": "Peter Pan",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "tinker-bell",
+      "name": "Tinker Bell",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "pinocchio",
+      "name": "Pinocchio",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "jiminy-cricket",
+      "name": "Jiminy Cricket",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "baloo",
+      "name": "Baloo",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "mowgli",
+      "name": "Mowgli",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    }
+  ]
+}
