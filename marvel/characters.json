@@ -29,8 +29,17 @@
       "identity": "Tony Stark",
       "mcu_actor": "Robert Downey Jr.",
       "type": "heroi",
-      "image_status": "pending_costume_image",
-      "image_requirements": "Retrato fechado do personagem caracterizado no visual oficial da obra, mostrando apenas rosto e pequena parte do pescoço; arquivo quadrado 512x512, pensado para exibição circular, rosto centralizado e margem de segurança. Não usar ator em roupa casual nem cosplay de terceiros."
+      "image_status": "candidate_pending_license_and_visual_review",
+      "image_requirements": "Retrato fechado do personagem caracterizado no visual oficial da obra, mostrando apenas rosto e pequena parte do pescoço; arquivo quadrado 512x512, pensado para exibição circular, rosto centralizado e margem de segurança. Não usar ator em roupa casual nem cosplay de terceiros.",
+      "image_url": "https://cdna.artstation.com/p/assets/images/images/035/235/108/large/davi-ferreira-homem-de-ferro.jpg?1614450845",
+      "image_source": {
+        "platform": "ArtStation",
+        "artist": "Davi Ferreira",
+        "source_url": "https://www.artstation.com/",
+        "direct_image_url": "https://cdna.artstation.com/p/assets/images/images/035/235/108/large/davi-ferreira-homem-de-ferro.jpg?1614450845",
+        "license_status": "not_verified",
+        "notes": "URL enviada pelo usuário. Não publicar no app até confirmar autorização/licença de reutilização e validar enquadramento, disponibilidade e estabilidade do hotlink."
+      }
     },
     {
       "id": "captain-america",
