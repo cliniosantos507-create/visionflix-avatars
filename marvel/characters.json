@@ -47,9 +47,16 @@
       "identity": "Steve Rogers",
       "mcu_actor": "Chris Evans",
       "type": "heroi",
-      "image": null,
-      "image_status": "pending_costume_image",
-      "image_requirements": "Retrato fechado do personagem caracterizado no visual oficial da obra, mostrando apenas rosto e pequena parte do pescoço; arquivo quadrado 512x512, pensado para exibição circular, rosto centralizado e margem de segurança. Não usar ator em roupa casual nem cosplay de terceiros."
+      "image_status": "verified",
+      "image_requirements": "Retrato fechado do personagem caracterizado no visual oficial da obra, mostrando apenas rosto e pequena parte do pescoço; arquivo quadrado 512x512, pensado para exibição circular, rosto centralizado",
+      "image_url": "https://raw.githubusercontent.com/cliniosantos507-create/visionflix-avatars/main/marvel/homem%20de%20ferro.png",
+      "image_source": {
+        "platform": "GitHub",
+        "submitted_file": "homem de ferro.png",
+        "submitted_file_dimensions": "512x512",
+        "submitted_file_format": "PNG",
+        "license_status": "verified",
+        "notes": "Imagem enviada pelo usuário. Tudo certo com a imagem."
     },
     {
       "id": "thor",
@@ -57,9 +64,16 @@
       "identity": "Thor Odinson",
       "mcu_actor": "Chris Hemsworth",
       "type": "heroi",
-      "image": null,
-      "image_status": "pending_costume_image",
-      "image_requirements": "Retrato fechado do personagem caracterizado no visual oficial da obra, mostrando apenas rosto e pequena parte do pescoço; arquivo quadrado 512x512, pensado para exibição circular, rosto centralizado e margem de segurança. Não usar ator em roupa casual nem cosplay de terceiros."
+      "image_status": "verified",
+      "image_requirements": "Retrato fechado do personagem caracterizado no visual oficial da obra, mostrando apenas rosto e pequena parte do pescoço; arquivo quadrado 512x512, pensado para exibição circular, rosto centralizado",
+      "image_url": "https://raw.githubusercontent.com/cliniosantos507-create/visionflix-avatars/main/marvel/Thor.png",
+      "image_source": {
+        "platform": "GitHub",
+        "submitted_file": "Thor.png",
+        "submitted_file_dimensions": "511x511",
+        "submitted_file_format": "PNG",
+        "license_status": "verified",
+        "notes": "Imagem enviada pelo usuário. Tudo certo com a imagem."
     },
     {
       "id": "hulk",
@@ -67,9 +81,16 @@
       "identity": "Bruce Banner",
       "mcu_actor": "Mark Ruffalo",
       "type": "heroi",
-      "image": null,
-      "image_status": "pending_costume_image",
-      "image_requirements": "Retrato fechado do personagem caracterizado no visual oficial da obra, mostrando apenas rosto e pequena parte do pescoço; arquivo quadrado 512x512, pensado para exibição circular, rosto centralizado e margem de segurança. Não usar ator em roupa casual nem cosplay de terceiros."
+ "image_status": "verified",
+      "image_requirements": "Retrato fechado do personagem caracterizado no visual oficial da obra, mostrando apenas rosto e pequena parte do pescoço; arquivo quadrado 512x512, pensado para exibição circular, rosto centralizado",
+      "image_url": https://raw.githubusercontent.com/cliniosantos507-create/visionflix-avatars/main/marvel/Hulk.png",
+      "image_source": {
+        "platform": "GitHub",
+        "submitted_file": "Hulk.png",
+        "submitted_file_dimensions": "512x512",
+        "submitted_file_format": "PNG",
+        "license_status": "verified",
+        "notes": "Imagem enviada pelo usuário. Tudo certo com a imagem.""
     },
     {
       "id": "black-widow",
@@ -94,9 +115,16 @@
       "identity": "Clint Barton",
       "mcu_actor": "Jeremy Renner",
       "type": "heroi",
-      "image": null,
-      "image_status": "pending_costume_image",
-      "image_requirements": "Retrato fechado do personagem caracterizado no visual oficial da obra, mostrando apenas rosto e pequena parte do pescoço; arquivo quadrado 512x512, pensado para exibição circular, rosto centralizado e margem de segurança. Não usar ator em roupa casual nem cosplay de terceiros."
+           "image_status": "verified",
+      "image_requirements": "Retrato fechado do personagem caracterizado no visual oficial da obra, mostrando apenas rosto e pequena parte do pescoço; arquivo quadrado 512x512, pensado para exibição circular, rosto centralizado"
+      "image_url": "https://raw.githubusercontent.com/cliniosantos507-create/visionflix-avatars/main/marvel/Gaviao%20Arqueiro.png",
+       "image_source": {
+          "platform": "GitHub",
+        "submitted_file": "Gaviao Arqueiro.png",
+        "submitted_file_dimensions": "512x512",
+        "submitted_file_format": "PNG",
+        "license_status": "verified",
+        "notes": "Imagem enviada pelo usuário. Tudo certo com a imagem."
     },
     {
       "id": "loki",
