@@ -1,0 +1,84 @@
+{
+  "category": "house-of-the-dragon",
+  "version": 1,
+  "image_spec": {
+    "aspect_ratio": "1:1",
+    "recommended_size_px": 512,
+    "preferred_format": "webp",
+    "display_shape": "circle",
+    "framing": "face_and_small_upper_neck",
+    "one_character_per_file": true
+  },
+  "characters": [
+    {
+      "id": "rhaenyra-targaryen",
+      "name": "Rhaenyra Targaryen",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "daemon-targaryen",
+      "name": "Daemon Targaryen",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "alicent-hightower",
+      "name": "Alicent Hightower",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "viserys-i-targaryen",
+      "name": "Viserys I Targaryen",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "aemond-targaryen",
+      "name": "Aemond Targaryen",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "aegon-ii-targaryen",
+      "name": "Aegon II Targaryen",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "rhaenys-targaryen",
+      "name": "Rhaenys Targaryen",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "corlys-velaryon",
+      "name": "Corlys Velaryon",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "helaena-targaryen",
+      "name": "Helaena Targaryen",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "criston-cole",
+      "name": "Criston Cole",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    }
+  ]
+}
