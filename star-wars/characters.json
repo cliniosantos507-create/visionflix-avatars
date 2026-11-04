@@ -1,0 +1,105 @@
+{
+  "category": "star-wars",
+  "version": 1,
+  "image_spec": {
+    "aspect_ratio": "1:1",
+    "recommended_size_px": 512,
+    "preferred_format": "webp",
+    "display_shape": "circle",
+    "framing": "face_and_small_upper_neck",
+    "one_character_per_file": true
+  },
+  "characters": [
+    {
+      "id": "luke-skywalker",
+      "name": "Luke Skywalker",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "leia-organa",
+      "name": "Leia Organa",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "darth-vader",
+      "name": "Darth Vader",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "han-solo",
+      "name": "Han Solo",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "chewbacca",
+      "name": "Chewbacca",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "obi-wan-kenobi",
+      "name": "Obi-Wan Kenobi",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "yoda",
+      "name": "Yoda",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "the-mandalorian",
+      "name": "The Mandalorian",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "grogu",
+      "name": "Grogu",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "ahsoka-tano",
+      "name": "Ahsoka Tano",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "rey",
+      "name": "Rey",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "kylo-ren",
+      "name": "Kylo Ren",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "boba-fett",
+      "name": "Boba Fett",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    }
+  ]
+}
