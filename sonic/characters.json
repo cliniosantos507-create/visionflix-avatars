@@ -1,0 +1,77 @@
+{
+  "category": "sonic",
+  "version": 1,
+  "image_spec": {
+    "aspect_ratio": "1:1",
+    "recommended_size_px": 512,
+    "preferred_format": "webp",
+    "display_shape": "circle",
+    "framing": "face_and_small_upper_neck",
+    "one_character_per_file": true
+  },
+  "characters": [
+    {
+      "id": "sonic-the-hedgehog",
+      "name": "Sonic the Hedgehog",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "tails",
+      "name": "Tails",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "knuckles",
+      "name": "Knuckles",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "amy-rose",
+      "name": "Amy Rose",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "shadow",
+      "name": "Shadow",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "dr-eggman",
+      "name": "Dr. Eggman",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "metal-sonic",
+      "name": "Metal Sonic",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "silver",
+      "name": "Silver",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "blaze",
+      "name": "Blaze",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    }
+  ]
+}
