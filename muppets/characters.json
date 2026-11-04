@@ -1,0 +1,77 @@
+{
+  "category": "muppets",
+  "version": 1,
+  "image_spec": {
+    "aspect_ratio": "1:1",
+    "recommended_size_px": 512,
+    "preferred_format": "webp",
+    "display_shape": "circle",
+    "framing": "face_and_small_upper_neck",
+    "one_character_per_file": true
+  },
+  "characters": [
+    {
+      "id": "kermit",
+      "name": "Kermit",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "miss-piggy",
+      "name": "Miss Piggy",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "fozzie-bear",
+      "name": "Fozzie Bear",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "gonzo",
+      "name": "Gonzo",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "animal",
+      "name": "Animal",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "swedish-chef",
+      "name": "Swedish Chef",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "rowlf",
+      "name": "Rowlf",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "beaker",
+      "name": "Beaker",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "dr-bunsen-honeydew",
+      "name": "Dr. Bunsen Honeydew",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    }
+  ]
+}
