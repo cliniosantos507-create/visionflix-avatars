@@ -1,0 +1,98 @@
+{
+  "category": "x-men",
+  "version": 1,
+  "image_spec": {
+    "aspect_ratio": "1:1",
+    "recommended_size_px": 512,
+    "preferred_format": "webp",
+    "display_shape": "circle",
+    "framing": "face_and_small_upper_neck",
+    "one_character_per_file": true
+  },
+  "characters": [
+    {
+      "id": "wolverine",
+      "name": "Wolverine",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "professor-x",
+      "name": "Professor X",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "cyclops",
+      "name": "Cyclops",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "jean-grey",
+      "name": "Jean Grey",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "storm",
+      "name": "Storm",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "rogue",
+      "name": "Rogue",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "gambit",
+      "name": "Gambit",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "beast",
+      "name": "Beast",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "mystique",
+      "name": "Mystique",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "magneto",
+      "name": "Magneto",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "nightcrawler",
+      "name": "Nightcrawler",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "deadpool",
+      "name": "Deadpool",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    }
+  ]
+}
