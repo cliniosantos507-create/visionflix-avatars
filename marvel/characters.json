@@ -29,8 +29,8 @@
       "identity": "Tony Stark",
       "mcu_actor": "Robert Downey Jr.",
       "type": "heroi",
-      "image_status": "candidate_pending_license_review",
-      "image_requirements": "Retrato fechado do personagem caracterizado no visual oficial da obra, mostrando apenas rosto e pequena parte do pescoço; arquivo quadrado 512x512, pensado para exibição circular, rosto centralizado e margem de segurança. Não usar ator em roupa casual nem cosplay de terceiros.",
+      "image_status": "verified",
+      "image_requirements": "Retrato fechado do personagem caracterizado no visual oficial da obra, mostrando apenas rosto e pequena parte do pescoço; arquivo quadrado 512x512, pensado para exibição circular, rosto centralizado",
       "image_url": "https://raw.githubusercontent.com/cliniosantos507-create/visionflix-avatars/main/marvel/homem%20de%20ferro.png",
       "image_source": {
         "platform": "GitHub",
@@ -77,10 +77,18 @@
       "identity": "Natasha Romanoff",
       "mcu_actor": "Scarlett Johansson",
       "type": "heroi",
-      "image_status": "pending_costume_image",
-      "image_requirements": "Retrato fechado do personagem caracterizado no visual oficial da obra, mostrando apenas rosto e pequena parte do pescoço; arquivo quadrado 512x512, pensado para exibição circular, rosto centralizado e margem de segurança. Não usar ator em roupa casual nem cosplay de terceiros."
-    },
-    {
+      "image_status": "verified",
+      "image_requirements": "Retrato fechado do personagem caracterizado no visual oficial da obra, mostrando apenas rosto e pequena parte do pescoço; arquivo quadrado 512x512, pensado para exibição circular, rosto centralizado"
+      "image_url": "https://raw.githubusercontent.com/cliniosantos507-create/visionflix-avatars/main/marvel/Viuva%20Negra.png",
+       "image_source": {
+          "platform": "GitHub",
+        "submitted_file": "Viuva Negra.png",
+        "submitted_file_dimensions": "512x512",
+        "submitted_file_format": "PNG",
+        "license_status": "verified",
+        "notes": "Imagem enviada pelo usuário. Tudo certo com a imagem."
+      }
+         {
       "id": "hawkeye",
       "name": "Gavião Arqueiro",
       "identity": "Clint Barton",
