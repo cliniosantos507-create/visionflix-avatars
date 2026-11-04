@@ -1,0 +1,91 @@
+{
+  "category": "harry-potter",
+  "version": 1,
+  "image_spec": {
+    "aspect_ratio": "1:1",
+    "recommended_size_px": 512,
+    "preferred_format": "webp",
+    "display_shape": "circle",
+    "framing": "face_and_small_upper_neck",
+    "one_character_per_file": true
+  },
+  "characters": [
+    {
+      "id": "harry-potter",
+      "name": "Harry Potter",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "hermione-granger",
+      "name": "Hermione Granger",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "ron-weasley",
+      "name": "Ron Weasley",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "albus-dumbledore",
+      "name": "Albus Dumbledore",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "severus-snape",
+      "name": "Severus Snape",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "lord-voldemort",
+      "name": "Lord Voldemort",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "draco-malfoy",
+      "name": "Draco Malfoy",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "minerva-mcgonagall",
+      "name": "Minerva McGonagall",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "rubeus-hagrid",
+      "name": "Rubeus Hagrid",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "luna-lovegood",
+      "name": "Luna Lovegood",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "sirius-black",
+      "name": "Sirius Black",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    }
+  ]
+}
