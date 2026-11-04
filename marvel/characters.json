@@ -29,16 +29,19 @@
       "identity": "Tony Stark",
       "mcu_actor": "Robert Downey Jr.",
       "type": "heroi",
-      "image_status": "candidate_pending_license_and_visual_review",
+      "image_status": "candidate_pending_license_visual_and_hotlink_review",
       "image_requirements": "Retrato fechado do personagem caracterizado no visual oficial da obra, mostrando apenas rosto e pequena parte do pescoço; arquivo quadrado 512x512, pensado para exibição circular, rosto centralizado e margem de segurança. Não usar ator em roupa casual nem cosplay de terceiros.",
-      "image_url": "https://cdna.artstation.com/p/assets/images/images/035/235/108/large/davi-ferreira-homem-de-ferro.jpg?1614450845",
+      "image_url": "https://i.pinimg.com/736x/bd/ec/d8/bdecd83ebbd830907d3a052f352caeee.jpg",
       "image_source": {
-        "platform": "ArtStation",
-        "artist": "Davi Ferreira",
-        "source_url": "https://www.artstation.com/",
-        "direct_image_url": "https://cdna.artstation.com/p/assets/images/images/035/235/108/large/davi-ferreira-homem-de-ferro.jpg?1614450845",
+        "platform": "Pinterest CDN",
+        "direct_image_url": "https://i.pinimg.com/736x/bd/ec/d8/bdecd83ebbd830907d3a052f352caeee.jpg",
+        "submitted_file": "homem de ferro.png",
+        "submitted_file_dimensions": "512x512",
+        "submitted_file_format": "PNG",
+        "url_file_extension": "jpg",
         "license_status": "not_verified",
-        "notes": "URL enviada pelo usuário. Não publicar no app até confirmar autorização/licença de reutilização e validar enquadramento, disponibilidade e estabilidade do hotlink."
+        "previous_candidate_url": "https://cdna.artstation.com/p/assets/images/images/035/235/108/large/davi-ferreira-homem-de-ferro.jpg?1614450845",
+        "notes": "Imagem enviada pelo usuário. A URL fornecida termina em .jpg, embora o arquivo anexado seja PNG. Composição mostra capacete e parte do tórax; avaliar recorte circular e autorização antes de publicar."
       }
     },
     {
