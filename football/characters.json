@@ -1,0 +1,98 @@
+{
+  "category": "football",
+  "version": 1,
+  "image_spec": {
+    "aspect_ratio": "1:1",
+    "recommended_size_px": 512,
+    "preferred_format": "webp",
+    "display_shape": "circle",
+    "framing": "official_crest",
+    "one_character_per_file": true
+  },
+  "characters": [
+    {
+      "id": "flamengo",
+      "name": "Flamengo",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Escudo oficial do clube, centralizado em arquivo quadrado, para exibição circular."
+    },
+    {
+      "id": "corinthians",
+      "name": "Corinthians",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Escudo oficial do clube, centralizado em arquivo quadrado, para exibição circular."
+    },
+    {
+      "id": "palmeiras",
+      "name": "Palmeiras",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Escudo oficial do clube, centralizado em arquivo quadrado, para exibição circular."
+    },
+    {
+      "id": "sao-paulo-fc",
+      "name": "São Paulo FC",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Escudo oficial do clube, centralizado em arquivo quadrado, para exibição circular."
+    },
+    {
+      "id": "santos-fc",
+      "name": "Santos FC",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Escudo oficial do clube, centralizado em arquivo quadrado, para exibição circular."
+    },
+    {
+      "id": "vasco-da-gama",
+      "name": "Vasco da Gama",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Escudo oficial do clube, centralizado em arquivo quadrado, para exibição circular."
+    },
+    {
+      "id": "botafogo",
+      "name": "Botafogo",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Escudo oficial do clube, centralizado em arquivo quadrado, para exibição circular."
+    },
+    {
+      "id": "fluminense",
+      "name": "Fluminense",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Escudo oficial do clube, centralizado em arquivo quadrado, para exibição circular."
+    },
+    {
+      "id": "real-madrid",
+      "name": "Real Madrid",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Escudo oficial do clube, centralizado em arquivo quadrado, para exibição circular."
+    },
+    {
+      "id": "barcelona",
+      "name": "Barcelona",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Escudo oficial do clube, centralizado em arquivo quadrado, para exibição circular."
+    },
+    {
+      "id": "liverpool",
+      "name": "Liverpool",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Escudo oficial do clube, centralizado em arquivo quadrado, para exibição circular."
+    },
+    {
+      "id": "manchester-city",
+      "name": "Manchester City",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Escudo oficial do clube, centralizado em arquivo quadrado, para exibição circular."
+    }
+  ]
+}
