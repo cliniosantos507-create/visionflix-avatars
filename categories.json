@@ -157,5 +157,20 @@
       "name": "Lupin",
       "path": "lupin/"
     }
-  ]
+  ],
+  "avatar_spec": {
+    "applies_to": "all_categories",
+    "display_shape": "circle",
+    "source_aspect_ratio": "1:1",
+    "recommended_size_px": 512,
+    "preferred_format": "webp",
+    "framing": "face_and_small_upper_neck_only",
+    "face_position": "centered_with_safe_margin",
+    "character_appearance": "official_character_costume_or_original_animated_design",
+    "one_subject_per_file": true,
+    "exceptions": {
+      "football": "official_club_crest_centered",
+      "non_humanoid": "recognizable_head_or_face"
+    }
+  }
 }
