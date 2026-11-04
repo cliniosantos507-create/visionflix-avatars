@@ -1,0 +1,91 @@
+{
+  "category": "stranger-things",
+  "version": 1,
+  "image_spec": {
+    "aspect_ratio": "1:1",
+    "recommended_size_px": 512,
+    "preferred_format": "webp",
+    "display_shape": "circle",
+    "framing": "face_and_small_upper_neck",
+    "one_character_per_file": true
+  },
+  "characters": [
+    {
+      "id": "eleven",
+      "name": "Eleven",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "mike-wheeler",
+      "name": "Mike Wheeler",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "dustin-henderson",
+      "name": "Dustin Henderson",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "lucas-sinclair",
+      "name": "Lucas Sinclair",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "will-byers",
+      "name": "Will Byers",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "max-mayfield",
+      "name": "Max Mayfield",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "jim-hopper",
+      "name": "Jim Hopper",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "joyce-byers",
+      "name": "Joyce Byers",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "steve-harrington",
+      "name": "Steve Harrington",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "robin-buckley",
+      "name": "Robin Buckley",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "vecna",
+      "name": "Vecna",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    }
+  ]
+}
