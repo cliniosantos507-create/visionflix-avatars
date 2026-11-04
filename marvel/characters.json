@@ -25,8 +25,13 @@
       "identity": "Tony Stark",
       "mcu_actor": "Robert Downey Jr.",
       "type": "heroi",
-      "image": null,
-      "image_status": "pending_rights_review"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Robert_Downey%2C_Jr._SDCC_2014.jpg/960px-Robert_Downey%2C_Jr._SDCC_2014.jpg",
+      "image_status": "available_external_cc",
+      "image_kind": "actor_portrait",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Robert_Downey,_Jr._SDCC_2014.jpg",
+      "author": "Gage Skidmore",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
     },
     {
       "id": "captain-america",
@@ -61,8 +66,13 @@
       "identity": "Natasha Romanoff",
       "mcu_actor": "Scarlett Johansson",
       "type": "heroi",
-      "image": null,
-      "image_status": "pending_rights_review"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Scarlett_Johansson_by_Gage_Skidmore_2019.jpg/960px-Scarlett_Johansson_by_Gage_Skidmore_2019.jpg",
+      "image_status": "available_external_cc",
+      "image_kind": "actor_portrait",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_by_Gage_Skidmore_2019.jpg",
+      "author": "Gage Skidmore",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
     },
     {
       "id": "hawkeye",
@@ -79,8 +89,13 @@
       "identity": "Loki Laufeyson",
       "mcu_actor": "Tom Hiddleston",
       "type": "vilao-aliado",
-      "image": null,
-      "image_status": "pending_rights_review"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tom_Hiddleston%2C_Loki_%284%29.jpg/960px-Tom_Hiddleston%2C_Loki_%284%29.jpg",
+      "image_status": "available_external_cc",
+      "image_kind": "actor_in_character",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tom_Hiddleston,_Loki_(4).jpg",
+      "author": "Gage Skidmore",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
     },
     {
       "id": "war-machine",
