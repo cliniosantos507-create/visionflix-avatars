@@ -1,0 +1,161 @@
+{
+  "name": "VisionFlix Avatars",
+  "version": 1,
+  "categories": [
+    {
+      "id": "marvel",
+      "name": "Marvel",
+      "path": "marvel/"
+    },
+    {
+      "id": "disney",
+      "name": "Disney",
+      "path": "disney/"
+    },
+    {
+      "id": "disney-villains",
+      "name": "Vilões Disney",
+      "path": "disney-villains/"
+    },
+    {
+      "id": "x-men",
+      "name": "X-Men",
+      "path": "x-men/"
+    },
+    {
+      "id": "kids",
+      "name": "Personagens infantis",
+      "path": "kids/"
+    },
+    {
+      "id": "disney-classics",
+      "name": "Clássicos Disney",
+      "path": "disney-classics/"
+    },
+    {
+      "id": "princesses",
+      "name": "Princesas",
+      "path": "princesses/"
+    },
+    {
+      "id": "mickey-friends",
+      "name": "Mickey e amigos",
+      "path": "mickey-friends/"
+    },
+    {
+      "id": "muppets",
+      "name": "Muppets",
+      "path": "muppets/"
+    },
+    {
+      "id": "simpsons",
+      "name": "Os Simpsons",
+      "path": "simpsons/"
+    },
+    {
+      "id": "pixar",
+      "name": "Pixar",
+      "path": "pixar/"
+    },
+    {
+      "id": "star-wars",
+      "name": "Star Wars",
+      "path": "star-wars/"
+    },
+    {
+      "id": "football",
+      "name": "Times de futebol",
+      "path": "football/"
+    },
+    {
+      "id": "harry-potter",
+      "name": "Harry Potter",
+      "path": "harry-potter/"
+    },
+    {
+      "id": "game-of-thrones",
+      "name": "Game of Thrones",
+      "path": "game-of-thrones/"
+    },
+    {
+      "id": "house-of-the-dragon",
+      "name": "A Casa do Dragão",
+      "path": "house-of-the-dragon/"
+    },
+    {
+      "id": "teen-titans",
+      "name": "Jovens Titãs",
+      "path": "teen-titans/"
+    },
+    {
+      "id": "rick-and-morty",
+      "name": "Rick and Morty",
+      "path": "rick-and-morty/"
+    },
+    {
+      "id": "justice-league",
+      "name": "Liga da Justiça",
+      "path": "justice-league/"
+    },
+    {
+      "id": "adventure-time",
+      "name": "Hora de Aventura",
+      "path": "adventure-time/"
+    },
+    {
+      "id": "scooby-doo",
+      "name": "Scooby-Doo",
+      "path": "scooby-doo/"
+    },
+    {
+      "id": "sesame-street",
+      "name": "Vila Sésamo",
+      "path": "sesame-street/"
+    },
+    {
+      "id": "spongebob",
+      "name": "Bob Esponja",
+      "path": "spongebob/"
+    },
+    {
+      "id": "south-park",
+      "name": "South Park",
+      "path": "south-park/"
+    },
+    {
+      "id": "sonic",
+      "name": "Sonic",
+      "path": "sonic/"
+    },
+    {
+      "id": "stranger-things",
+      "name": "Stranger Things",
+      "path": "stranger-things/"
+    },
+    {
+      "id": "one-piece",
+      "name": "One Piece",
+      "path": "one-piece/"
+    },
+    {
+      "id": "squid-game",
+      "name": "Round 6",
+      "path": "squid-game/"
+    },
+    {
+      "id": "wednesday",
+      "name": "Wandinha",
+      "path": "wednesday/"
+    },
+    {
+      "id": "peaky-blinders",
+      "name": "Peaky Blinders",
+      "path": "peaky-blinders/"
+    },
+    {
+      "id": "lupin",
+      "name": "Lupin",
+      "path": "lupin/"
+    }
+  ]
+}
