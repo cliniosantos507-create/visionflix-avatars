@@ -25,13 +25,8 @@
       "identity": "Tony Stark",
       "mcu_actor": "Robert Downey Jr.",
       "type": "heroi",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Robert_Downey%2C_Jr._SDCC_2014.jpg/960px-Robert_Downey%2C_Jr._SDCC_2014.jpg",
-      "image_status": "available_external_cc",
-      "image_kind": "actor_portrait",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Robert_Downey,_Jr._SDCC_2014.jpg",
-      "author": "Gage Skidmore",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "captain-america",
@@ -40,7 +35,8 @@
       "mcu_actor": "Chris Evans",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "thor",
@@ -49,7 +45,8 @@
       "mcu_actor": "Chris Hemsworth",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "hulk",
@@ -58,7 +55,8 @@
       "mcu_actor": "Mark Ruffalo",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "black-widow",
@@ -66,13 +64,8 @@
       "identity": "Natasha Romanoff",
       "mcu_actor": "Scarlett Johansson",
       "type": "heroi",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Scarlett_Johansson_by_Gage_Skidmore_2019.jpg/960px-Scarlett_Johansson_by_Gage_Skidmore_2019.jpg",
-      "image_status": "available_external_cc",
-      "image_kind": "actor_portrait",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_by_Gage_Skidmore_2019.jpg",
-      "author": "Gage Skidmore",
-      "license": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "hawkeye",
@@ -81,7 +74,8 @@
       "mcu_actor": "Jeremy Renner",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "loki",
@@ -89,13 +83,8 @@
       "identity": "Loki Laufeyson",
       "mcu_actor": "Tom Hiddleston",
       "type": "vilao-aliado",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tom_Hiddleston%2C_Loki_%284%29.jpg/960px-Tom_Hiddleston%2C_Loki_%284%29.jpg",
-      "image_status": "available_external_cc",
-      "image_kind": "actor_in_character",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Tom_Hiddleston,_Loki_(4).jpg",
-      "author": "Gage Skidmore",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "war-machine",
@@ -104,7 +93,8 @@
       "mcu_actor": "Don Cheadle",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "falcon",
@@ -113,7 +103,8 @@
       "mcu_actor": "Anthony Mackie",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "winter-soldier",
@@ -122,7 +113,8 @@
       "mcu_actor": "Sebastian Stan",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "scarlet-witch",
@@ -131,7 +123,8 @@
       "mcu_actor": "Elizabeth Olsen",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "vision",
@@ -140,7 +133,8 @@
       "mcu_actor": "Paul Bettany",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "spider-man",
@@ -149,7 +143,8 @@
       "mcu_actor": "Tom Holland",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "doctor-strange",
@@ -158,7 +153,8 @@
       "mcu_actor": "Benedict Cumberbatch",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "black-panther",
@@ -167,7 +163,8 @@
       "mcu_actor": "Chadwick Boseman",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "shuri",
@@ -176,7 +173,8 @@
       "mcu_actor": "Letitia Wright",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "captain-marvel",
@@ -185,7 +183,8 @@
       "mcu_actor": "Brie Larson",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "ant-man",
@@ -194,7 +193,8 @@
       "mcu_actor": "Paul Rudd",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "wasp",
@@ -203,7 +203,8 @@
       "mcu_actor": "Evangeline Lilly",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "star-lord",
@@ -212,7 +213,8 @@
       "mcu_actor": "Chris Pratt",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "gamora",
@@ -221,7 +223,8 @@
       "mcu_actor": "Zoe Saldaña",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "nebula",
@@ -230,7 +233,8 @@
       "mcu_actor": "Karen Gillan",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "drax",
@@ -239,7 +243,8 @@
       "mcu_actor": "Dave Bautista",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "mantis",
@@ -248,7 +253,8 @@
       "mcu_actor": "Pom Klementieff",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "rocket",
@@ -257,7 +263,8 @@
       "mcu_actor": "Bradley Cooper",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "groot",
@@ -266,7 +273,8 @@
       "mcu_actor": "Vin Diesel",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "nick-fury",
@@ -275,7 +283,8 @@
       "mcu_actor": "Samuel L. Jackson",
       "type": "aliado",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "thanos",
@@ -284,7 +293,8 @@
       "mcu_actor": "Josh Brolin",
       "type": "vilao",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "ultron",
@@ -293,7 +303,8 @@
       "mcu_actor": "James Spader",
       "type": "vilao",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "killmonger",
@@ -302,7 +313,8 @@
       "mcu_actor": "Michael B. Jordan",
       "type": "vilao",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "hela",
@@ -311,7 +323,8 @@
       "mcu_actor": "Cate Blanchett",
       "type": "vilao",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "red-skull",
@@ -320,7 +333,8 @@
       "mcu_actor": "Hugo Weaving",
       "type": "vilao",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "winter-soldier-bucky",
@@ -329,7 +343,8 @@
       "mcu_actor": "Sebastian Stan",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "pepper-potts",
@@ -338,7 +353,8 @@
       "mcu_actor": "Gwyneth Paltrow",
       "type": "aliado",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "okoye",
@@ -347,7 +363,8 @@
       "mcu_actor": "Danai Gurira",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "valkyrie",
@@ -356,7 +373,8 @@
       "mcu_actor": "Tessa Thompson",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "shang-chi",
@@ -365,7 +383,8 @@
       "mcu_actor": "Simu Liu",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "moon-knight",
@@ -374,7 +393,8 @@
       "mcu_actor": "Oscar Isaac",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "she-hulk",
@@ -383,7 +403,8 @@
       "mcu_actor": "Tatiana Maslany",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "daredevil",
@@ -392,7 +413,8 @@
       "mcu_actor": "Charlie Cox",
       "type": "heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     },
     {
       "id": "punisher",
@@ -401,7 +423,8 @@
       "mcu_actor": "Jon Bernthal",
       "type": "anti-heroi",
       "image": null,
-      "image_status": "pending_rights_review"
+      "image_status": "pending_costume_image",
+      "image_requirements": "Imagem do personagem em traje oficial de filme/série, com ator caracterizado; não usar retrato casual do ator nem cosplay de terceiros."
     }
   ]
 }
