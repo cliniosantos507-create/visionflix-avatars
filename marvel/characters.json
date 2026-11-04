@@ -1,0 +1,392 @@
+{
+  "category": "Marvel",
+  "collection": "MCU - primeira seleção",
+  "version": 1,
+  "image_spec": {
+    "format": [
+      "webp",
+      "png",
+      "jpg"
+    ],
+    "aspect_ratio": "1:1",
+    "recommended_size_px": 512,
+    "one_character_per_file": true
+  },
+  "image_policy": "Não armazenar imagens protegidas por direitos autorais sem licença ou autorização. Imagens oficiais e stills promocionais não são automaticamente livres para redistribuição.",
+  "source_references": [
+    "https://www.marvel.com/teams-and-groups/avengers/in-comics",
+    "https://www.disney.com.br/novidades/os-vingadores-quem-sao-eles-e-quais-sao-seus-poderes",
+    "https://d23.com/a-to-z/avengers-marvels-the-film/"
+  ],
+  "characters": [
+    {
+      "id": "iron-man",
+      "name": "Homem de Ferro",
+      "identity": "Tony Stark",
+      "mcu_actor": "Robert Downey Jr.",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "captain-america",
+      "name": "Capitão América",
+      "identity": "Steve Rogers",
+      "mcu_actor": "Chris Evans",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "thor",
+      "name": "Thor",
+      "identity": "Thor Odinson",
+      "mcu_actor": "Chris Hemsworth",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "hulk",
+      "name": "Hulk",
+      "identity": "Bruce Banner",
+      "mcu_actor": "Mark Ruffalo",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "black-widow",
+      "name": "Viúva Negra",
+      "identity": "Natasha Romanoff",
+      "mcu_actor": "Scarlett Johansson",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "hawkeye",
+      "name": "Gavião Arqueiro",
+      "identity": "Clint Barton",
+      "mcu_actor": "Jeremy Renner",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "loki",
+      "name": "Loki",
+      "identity": "Loki Laufeyson",
+      "mcu_actor": "Tom Hiddleston",
+      "type": "vilao-aliado",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "war-machine",
+      "name": "Máquina de Combate",
+      "identity": "James Rhodes",
+      "mcu_actor": "Don Cheadle",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "falcon",
+      "name": "Falcão",
+      "identity": "Sam Wilson",
+      "mcu_actor": "Anthony Mackie",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "winter-soldier",
+      "name": "Soldado Invernal",
+      "identity": "Bucky Barnes",
+      "mcu_actor": "Sebastian Stan",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "scarlet-witch",
+      "name": "Feiticeira Escarlate",
+      "identity": "Wanda Maximoff",
+      "mcu_actor": "Elizabeth Olsen",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "vision",
+      "name": "Visão",
+      "identity": "Vision",
+      "mcu_actor": "Paul Bettany",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "spider-man",
+      "name": "Homem-Aranha",
+      "identity": "Peter Parker",
+      "mcu_actor": "Tom Holland",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "doctor-strange",
+      "name": "Doutor Estranho",
+      "identity": "Stephen Strange",
+      "mcu_actor": "Benedict Cumberbatch",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "black-panther",
+      "name": "Pantera Negra",
+      "identity": "T'Challa",
+      "mcu_actor": "Chadwick Boseman",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "shuri",
+      "name": "Shuri",
+      "identity": "Shuri",
+      "mcu_actor": "Letitia Wright",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "captain-marvel",
+      "name": "Capitã Marvel",
+      "identity": "Carol Danvers",
+      "mcu_actor": "Brie Larson",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "ant-man",
+      "name": "Homem-Formiga",
+      "identity": "Scott Lang",
+      "mcu_actor": "Paul Rudd",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "wasp",
+      "name": "Vespa",
+      "identity": "Hope van Dyne",
+      "mcu_actor": "Evangeline Lilly",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "star-lord",
+      "name": "Senhor das Estrelas",
+      "identity": "Peter Quill",
+      "mcu_actor": "Chris Pratt",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "gamora",
+      "name": "Gamora",
+      "identity": "Gamora",
+      "mcu_actor": "Zoe Saldaña",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "nebula",
+      "name": "Nebulosa",
+      "identity": "Nebula",
+      "mcu_actor": "Karen Gillan",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "drax",
+      "name": "Drax",
+      "identity": "Drax",
+      "mcu_actor": "Dave Bautista",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "mantis",
+      "name": "Mantis",
+      "identity": "Mantis",
+      "mcu_actor": "Pom Klementieff",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "rocket",
+      "name": "Rocket",
+      "identity": "Rocket",
+      "mcu_actor": "Bradley Cooper",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "groot",
+      "name": "Groot",
+      "identity": "Groot",
+      "mcu_actor": "Vin Diesel",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "nick-fury",
+      "name": "Nick Fury",
+      "identity": "Nicholas Fury",
+      "mcu_actor": "Samuel L. Jackson",
+      "type": "aliado",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "thanos",
+      "name": "Thanos",
+      "identity": "Thanos",
+      "mcu_actor": "Josh Brolin",
+      "type": "vilao",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "ultron",
+      "name": "Ultron",
+      "identity": "Ultron",
+      "mcu_actor": "James Spader",
+      "type": "vilao",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "killmonger",
+      "name": "Erik Killmonger",
+      "identity": "N'Jadaka",
+      "mcu_actor": "Michael B. Jordan",
+      "type": "vilao",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "hela",
+      "name": "Hela",
+      "identity": "Hela",
+      "mcu_actor": "Cate Blanchett",
+      "type": "vilao",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "red-skull",
+      "name": "Caveira Vermelha",
+      "identity": "Johann Schmidt",
+      "mcu_actor": "Hugo Weaving",
+      "type": "vilao",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "winter-soldier-bucky",
+      "name": "Bucky Barnes",
+      "identity": "James Buchanan Barnes",
+      "mcu_actor": "Sebastian Stan",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "pepper-potts",
+      "name": "Pepper Potts",
+      "identity": "Virginia Potts",
+      "mcu_actor": "Gwyneth Paltrow",
+      "type": "aliado",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "okoye",
+      "name": "Okoye",
+      "identity": "Okoye",
+      "mcu_actor": "Danai Gurira",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "valkyrie",
+      "name": "Valquíria",
+      "identity": "Brunnhilde",
+      "mcu_actor": "Tessa Thompson",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "shang-chi",
+      "name": "Shang-Chi",
+      "identity": "Xu Shang-Chi",
+      "mcu_actor": "Simu Liu",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "moon-knight",
+      "name": "Cavaleiro da Lua",
+      "identity": "Marc Spector",
+      "mcu_actor": "Oscar Isaac",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "she-hulk",
+      "name": "Mulher-Hulk",
+      "identity": "Jennifer Walters",
+      "mcu_actor": "Tatiana Maslany",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "daredevil",
+      "name": "Demolidor",
+      "identity": "Matt Murdock",
+      "mcu_actor": "Charlie Cox",
+      "type": "heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    },
+    {
+      "id": "punisher",
+      "name": "Justiceiro",
+      "identity": "Frank Castle",
+      "mcu_actor": "Jon Bernthal",
+      "type": "anti-heroi",
+      "image": null,
+      "image_status": "pending_rights_review"
+    }
+  ]
+}
