@@ -1,0 +1,44 @@
+{
+  "category": {
+    "id": "marvel",
+    "name": "Marvel"
+  },
+  "version": 1,
+  "characters": [
+    {
+      "id": "hawkeye",
+      "name": "Gavião Arqueiro",
+      "image_file": "gaviao-arqueiro.png",
+      "image_status": "prepared",
+      "license_status": "verified"
+    },
+    {
+      "id": "iron-man",
+      "name": "Homem de Ferro",
+      "image_file": "homem-de-ferro.png",
+      "image_status": "prepared",
+      "license_status": "verified"
+    },
+    {
+      "id": "hulk",
+      "name": "Hulk",
+      "image_file": "hulk.png",
+      "image_status": "prepared",
+      "license_status": "verified"
+    },
+    {
+      "id": "thor",
+      "name": "Thor",
+      "image_file": "thor.png",
+      "image_status": "prepared",
+      "license_status": "verified"
+    },
+    {
+      "id": "black-widow",
+      "name": "Viúva Negra",
+      "image_file": "viuva-negra.png",
+      "image_status": "prepared",
+      "license_status": "verified"
+    }
+  ]
+}
