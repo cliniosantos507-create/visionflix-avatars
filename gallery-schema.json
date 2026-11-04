@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "character": {
+    "id": "stable-kebab-case-id",
+    "name": "Display name",
+    "image_url": "https://...",
+    "image_source_page": "https://...",
+    "image_author": "Photographer or creator",
+    "image_license": "Exact license identifier",
+    "license_url": "https://...",
+    "image_status": "approved | review_required | pending",
+    "crop": {
+      "aspect_ratio": "1:1",
+      "framing": "face_and_small_neck",
+      "display_shape": "circle",
+      "fit": "centerCrop"
+    }
+  },
+  "rules": [
+    "Never publish a character image without recording its source and license.",
+    "For live-action characters, use the actor in the official character costume, not a casual portrait.",
+    "Crop the source to the face and a small portion of the neck only.",
+    "Store square master images and apply a circular crop in the Android UI.",
+    "For animated characters use official recognizable face artwork; for football teams use official crests."
+  ],
+  "android": {
+    "image_loading": "Use an image loader with centerCrop and circular transformation.",
+    "fallback": "Use the VisionFlix lime-on-dark placeholder when image_url is absent or fails.",
+    "selection_value": "Persist character id and image_url with the selected profile in Supabase."
+  }
+}
