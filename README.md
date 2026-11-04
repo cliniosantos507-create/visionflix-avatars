@@ -17,6 +17,24 @@ Biblioteca de avatares do aplicativo VisionFlix.
 
 Usar imagens próprias, licenciadas ou com autorização de uso. Imagens oficiais e stills promocionais não são automaticamente livres para redistribuição. Registrar autor, origem e licença em arquivo de créditos da categoria. Não confundir disponibilidade pública com autorização de uso.
 
+## Categorias da primeira versão
+
+A primeira versão da galeria terá estas 11 categorias:
+
+1. Marvel
+2. Disney
+3. Princesas Disney
+4. Pixar
+5. Harry Potter
+6. Futebol
+7. Stranger Things
+8. Vilões da Disney
+9. Kids
+10. Wandinha
+11. Round 6
+
+Star Wars e One Piece ficam fora da primeira versão. As demais categorias permanecem no catálogo para expansões futuras. A fase de cada categoria também está identificada em `gallery-index.json` (`release_phase`).
+
 ## Integração no VisionFlix
 
 O catálogo `categories.json` define as categorias. Cada pasta de categoria mantém seu catálogo de personagens e os créditos das imagens. A integração Android/Supabase deve aplicar máscara circular na exibição e preservar a URL/identificação do avatar selecionado.
