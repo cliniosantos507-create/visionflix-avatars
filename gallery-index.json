@@ -23,187 +23,218 @@
       "id": "marvel",
       "name": "Marvel",
       "catalog_path": "marvel/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 1
     },
     {
       "id": "disney",
       "name": "Disney",
       "catalog_path": "disney/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 1
     },
     {
       "id": "disney-villains",
       "name": "Vilões Disney",
       "catalog_path": "disney-villains/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 1
     },
     {
       "id": "x-men",
       "name": "X-Men",
       "catalog_path": "x-men/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 2
     },
     {
       "id": "kids",
       "name": "Personagens infantis",
       "catalog_path": "kids/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 1
     },
     {
       "id": "disney-classics",
       "name": "Clássicos Disney",
       "catalog_path": "disney-classics/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 2
     },
     {
       "id": "princesses",
       "name": "Princesas",
       "catalog_path": "princesses/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 1
     },
     {
       "id": "mickey-friends",
       "name": "Mickey e amigos",
       "catalog_path": "mickey-friends/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 2
     },
     {
       "id": "muppets",
       "name": "Muppets",
       "catalog_path": "muppets/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 2
     },
     {
       "id": "simpsons",
       "name": "Os Simpsons",
       "catalog_path": "simpsons/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 2
     },
     {
       "id": "pixar",
       "name": "Pixar",
       "catalog_path": "pixar/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 1
     },
     {
       "id": "star-wars",
       "name": "Star Wars",
       "catalog_path": "star-wars/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 2
     },
     {
       "id": "football",
       "name": "Times de futebol",
       "catalog_path": "football/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 1
     },
     {
       "id": "harry-potter",
       "name": "Harry Potter",
       "catalog_path": "harry-potter/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 1
     },
     {
       "id": "game-of-thrones",
       "name": "Game of Thrones",
       "catalog_path": "game-of-thrones/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 2
     },
     {
       "id": "house-of-the-dragon",
       "name": "A Casa do Dragão",
       "catalog_path": "house-of-the-dragon/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 2
     },
     {
       "id": "teen-titans",
       "name": "Jovens Titãs",
       "catalog_path": "teen-titans/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 2
     },
     {
       "id": "rick-and-morty",
       "name": "Rick and Morty",
       "catalog_path": "rick-and-morty/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 2
     },
     {
       "id": "justice-league",
       "name": "Liga da Justiça",
       "catalog_path": "justice-league/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 2
     },
     {
       "id": "adventure-time",
       "name": "Hora de Aventura",
       "catalog_path": "adventure-time/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 2
     },
     {
       "id": "scooby-doo",
       "name": "Scooby-Doo",
       "catalog_path": "scooby-doo/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 2
     },
     {
       "id": "sesame-street",
       "name": "Vila Sésamo",
       "catalog_path": "sesame-street/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 2
     },
     {
       "id": "spongebob",
       "name": "Bob Esponja",
       "catalog_path": "spongebob/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 2
     },
     {
       "id": "south-park",
       "name": "South Park",
       "catalog_path": "south-park/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 2
     },
     {
       "id": "sonic",
       "name": "Sonic",
       "catalog_path": "sonic/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 2
     },
     {
       "id": "stranger-things",
       "name": "Stranger Things",
       "catalog_path": "stranger-things/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 1
     },
     {
       "id": "one-piece",
       "name": "One Piece",
       "catalog_path": "one-piece/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 2
     },
     {
       "id": "squid-game",
       "name": "Round 6",
       "catalog_path": "squid-game/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 1
     },
     {
       "id": "wednesday",
       "name": "Wandinha",
       "catalog_path": "wednesday/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 1
     },
     {
       "id": "peaky-blinders",
       "name": "Peaky Blinders",
       "catalog_path": "peaky-blinders/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 2
     },
     {
       "id": "lupin",
       "name": "Lupin",
       "catalog_path": "lupin/characters.json",
-      "status": "catalog_created_images_pending"
+      "status": "catalog_created_images_pending",
+      "release_phase": 2
     }
   ]
 }
