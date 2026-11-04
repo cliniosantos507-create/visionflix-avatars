@@ -1,0 +1,91 @@
+{
+  "category": "game-of-thrones",
+  "version": 1,
+  "image_spec": {
+    "aspect_ratio": "1:1",
+    "recommended_size_px": 512,
+    "preferred_format": "webp",
+    "display_shape": "circle",
+    "framing": "face_and_small_upper_neck",
+    "one_character_per_file": true
+  },
+  "characters": [
+    {
+      "id": "jon-snow",
+      "name": "Jon Snow",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "daenerys-targaryen",
+      "name": "Daenerys Targaryen",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "arya-stark",
+      "name": "Arya Stark",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "sansa-stark",
+      "name": "Sansa Stark",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "tyrion-lannister",
+      "name": "Tyrion Lannister",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "cersei-lannister",
+      "name": "Cersei Lannister",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "jaime-lannister",
+      "name": "Jaime Lannister",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "ned-stark",
+      "name": "Ned Stark",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "bran-stark",
+      "name": "Bran Stark",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "the-night-king",
+      "name": "The Night King",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "khal-drogo",
+      "name": "Khal Drogo",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como o personagem na obra oficial; enquadramento fechado apenas do rosto e pequena parte do pescoço; quadrado 512x512 com margem para recorte circular."
+    }
+  ]
+}
