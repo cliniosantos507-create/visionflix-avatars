@@ -1,0 +1,18 @@
+{
+  "category": "Marvel",
+  "entries": [
+    {
+      "character_id": "loki",
+      "character_name": "Loki",
+      "image_source_page": "https://commons.wikimedia.org/wiki/File:Tom_Hiddleston_as_Loki.jpg",
+      "image_author": "Gage Skidmore",
+      "image_license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_dimensions": "3168x3166",
+      "source_description": "Tom Hiddleston portrayed as Loki at San Diego Comic-Con 2013; square crop available.",
+      "image_status": "review_required",
+      "reason": "Photograph license is stated on Wikimedia Commons, but the page warns that character rights may impose separate legal restrictions. Do not ship in the app until cleared.",
+      "image_url": null
+    }
+  ]
+}
