@@ -1,0 +1,56 @@
+{
+  "category": "scooby-doo",
+  "version": 1,
+  "image_spec": {
+    "aspect_ratio": "1:1",
+    "recommended_size_px": 512,
+    "preferred_format": "webp",
+    "display_shape": "circle",
+    "framing": "face_and_small_upper_neck",
+    "one_character_per_file": true
+  },
+  "characters": [
+    {
+      "id": "scooby-doo",
+      "name": "Scooby-Doo",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "shaggy-rogers",
+      "name": "Shaggy Rogers",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "fred-jones",
+      "name": "Fred Jones",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "daphne-blake",
+      "name": "Daphne Blake",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "velma-dinkley",
+      "name": "Velma Dinkley",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "scrappy-doo",
+      "name": "Scrappy-Doo",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    }
+  ]
+}
