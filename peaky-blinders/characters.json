@@ -1,0 +1,77 @@
+{
+  "category": "peaky-blinders",
+  "version": 1,
+  "image_spec": {
+    "aspect_ratio": "1:1",
+    "recommended_size_px": 512,
+    "preferred_format": "webp",
+    "display_shape": "circle",
+    "framing": "face_and_small_upper_neck",
+    "one_character_per_file": true
+  },
+  "characters": [
+    {
+      "id": "thomas-shelby",
+      "name": "Thomas Shelby",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "arthur-shelby",
+      "name": "Arthur Shelby",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "john-shelby",
+      "name": "John Shelby",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "polly-gray",
+      "name": "Polly Gray",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "ada-shelby",
+      "name": "Ada Shelby",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "michael-gray",
+      "name": "Michael Gray",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "alfie-solomons",
+      "name": "Alfie Solomons",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "oswald-mosley",
+      "name": "Oswald Mosley",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "finn-shelby",
+      "name": "Finn Shelby",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    }
+  ]
+}
