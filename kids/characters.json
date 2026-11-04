@@ -1,0 +1,98 @@
+{
+  "category": "kids",
+  "version": 1,
+  "image_spec": {
+    "aspect_ratio": "1:1",
+    "recommended_size_px": 512,
+    "preferred_format": "webp",
+    "display_shape": "circle",
+    "framing": "face_and_small_upper_neck",
+    "one_character_per_file": true
+  },
+  "characters": [
+    {
+      "id": "bluey",
+      "name": "Bluey",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "bingo",
+      "name": "Bingo",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "peppa-pig",
+      "name": "Peppa Pig",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "george-pig",
+      "name": "George Pig",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "paw-patrol-chase",
+      "name": "Paw Patrol Chase",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "paw-patrol-marshall",
+      "name": "Paw Patrol Marshall",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "dora",
+      "name": "Dora",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "diego",
+      "name": "Diego",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "pikachu",
+      "name": "Pikachu",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "hello-kitty",
+      "name": "Hello Kitty",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "curious-george",
+      "name": "Curious George",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "pocoyo",
+      "name": "Pocoyo",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+    }
+  ]
+}
