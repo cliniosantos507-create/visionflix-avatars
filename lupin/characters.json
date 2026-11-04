@@ -1,0 +1,56 @@
+{
+  "category": "lupin",
+  "version": 1,
+  "image_spec": {
+    "aspect_ratio": "1:1",
+    "recommended_size_px": 512,
+    "preferred_format": "webp",
+    "display_shape": "circle",
+    "framing": "face_and_small_upper_neck",
+    "one_character_per_file": true
+  },
+  "characters": [
+    {
+      "id": "assane-diop",
+      "name": "Assane Diop",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "claire",
+      "name": "Claire",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "youssef-guedira",
+      "name": "Youssef Guedira",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "benjamin-ferel",
+      "name": "Benjamin Ferel",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "hubert-pellegrini",
+      "name": "Hubert Pellegrini",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "juliette-pellegrini",
+      "name": "Juliette Pellegrini",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Ator caracterizado como personagem oficial; somente rosto e pequena parte do pescoço; imagem quadrada 512x512 com margem para recorte circular."
+    }
+  ]
+}
