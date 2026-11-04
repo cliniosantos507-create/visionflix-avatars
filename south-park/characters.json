@@ -1,0 +1,70 @@
+{
+  "category": "south-park",
+  "version": 1,
+  "image_spec": {
+    "aspect_ratio": "1:1",
+    "recommended_size_px": 512,
+    "preferred_format": "webp",
+    "display_shape": "circle",
+    "framing": "face_and_small_upper_neck",
+    "one_character_per_file": true
+  },
+  "characters": [
+    {
+      "id": "stan-marsh",
+      "name": "Stan Marsh",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "kyle-broflovski",
+      "name": "Kyle Broflovski",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "eric-cartman",
+      "name": "Eric Cartman",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "kenny-mccormick",
+      "name": "Kenny McCormick",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "butters-stotch",
+      "name": "Butters Stotch",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "randy-marsh",
+      "name": "Randy Marsh",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "wendy-testaburger",
+      "name": "Wendy Testaburger",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    },
+    {
+      "id": "chef",
+      "name": "Chef",
+      "image_url": null,
+      "image_status": "pending_image",
+      "image_requirements": "Arte oficial do personagem; rosto/cabeça centralizado; imagem quadrada 512x512 com margem para recorte circular."
+    }
+  ]
+}
