@@ -11,88 +11,135 @@
   },
   "characters": [
     {
-      "id": "mickey-mouse",
-      "name": "Mickey Mouse",
+      "id": "yuuken-enma",
+      "name": "Yuuken Enma",
+      "image_file": "yuuken-enma.webp",
       "image_url": null,
-      "image_status": "pending_image",
-      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+      "image_status": "active"
     },
     {
-      "id": "minnie-mouse",
-      "name": "Minnie Mouse",
+      "id": "elio-solis",
+      "name": "Elio Solis",
+      "image_file": "elio-solis.webp",
       "image_url": null,
-      "image_status": "pending_image",
-      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+      "image_status": "active"
     },
     {
-      "id": "donald-duck",
-      "name": "Donald Duck",
+      "id": "glordon",
+      "name": "Glordon",
+      "image_file": "glordon.webp",
       "image_url": null,
-      "image_status": "pending_image",
-      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+      "image_status": "active"
     },
     {
-      "id": "daisy-duck",
-      "name": "Daisy Duck",
+      "id": "stitch-live-action",
+      "name": "Stitch (Live-Action)",
+      "image_file": "stitch-live-action.webp",
       "image_url": null,
-      "image_status": "pending_image",
-      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+      "image_status": "active"
     },
     {
-      "id": "goofy",
-      "name": "Goofy",
+      "id": "lilo-live-action",
+      "name": "Lilo (Live-Action)",
+      "image_file": "lilo-live-action.webp",
       "image_url": null,
-      "image_status": "pending_image",
-      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+      "image_status": "active"
     },
     {
-      "id": "pluto",
-      "name": "Pluto",
+      "id": "jake-sully",
+      "name": "Jake Sully",
+      "image_file": "jake-sully.webp",
       "image_url": null,
-      "image_status": "pending_image",
-      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+      "image_status": "active"
     },
     {
-      "id": "stitch",
-      "name": "Stitch",
+      "id": "neytiri",
+      "name": "Neytiri",
+      "image_file": "neytiri.webp",
       "image_url": null,
-      "image_status": "pending_image",
-      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+      "image_status": "active"
     },
     {
-      "id": "lilo",
-      "name": "Lilo",
+      "id": "asha-wish",
+      "name": "Asha (Wish)",
+      "image_file": "asha-wish.webp",
       "image_url": null,
-      "image_status": "pending_image",
-      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+      "image_status": "active"
+    },
+    {
+      "id": "ethan-clade",
+      "name": "Ethan Clade",
+      "image_file": "ethan-clade.webp",
+      "image_url": null,
+      "image_status": "active"
     },
     {
       "id": "baymax",
       "name": "Baymax",
+      "image_file": "baymax.webp",
       "image_url": null,
-      "image_status": "pending_image",
-      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+      "image_status": "active"
     },
     {
-      "id": "aladdin",
-      "name": "Aladdin",
+      "id": "stitch-2002",
+      "name": "Stitch (2002)",
+      "image_file": "stitch-2002.webp",
       "image_url": null,
-      "image_status": "pending_image",
-      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+      "image_status": "active"
     },
     {
-      "id": "genie",
-      "name": "Genie",
+      "id": "lilo-pelekai-2002",
+      "name": "Lilo Pelekai (2002)",
+      "image_file": "lilo-pelekai-2002.webp",
       "image_url": null,
-      "image_status": "pending_image",
-      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+      "image_status": "active"
     },
     {
-      "id": "mulan",
-      "name": "Mulan",
+      "id": "scrat",
+      "name": "Scrat",
+      "image_file": "scrat.webp",
       "image_url": null,
-      "image_status": "pending_image",
-      "image_requirements": "Arte oficial do personagem; enquadramento da cabeça/rosto, centralizado, quadrado 512x512 com margem para recorte circular."
+      "image_status": "active"
+    },
+    {
+      "id": "sid",
+      "name": "Sid",
+      "image_file": "sid.webp",
+      "image_url": null,
+      "image_status": "active"
+    },
+    {
+      "id": "diego",
+      "name": "Diego",
+      "image_file": "diego.webp",
+      "image_status": "active"
+    },
+    {
+      "id": "manny",
+      "name": "Manny",
+      "image_file": "manny.webp",
+      "image_status": "active"
+    },
+    {
+      "id": "buck",
+      "name": "Buck",
+      "image_file": "buck.webp",
+      "image_url": null,
+      "image_status": "active"
+    },
+    {
+      "id": "ellie",
+      "name": "Ellie",
+      "image_file": "ellie.webp",
+      "image_url": null,
+      "image_status": "active"
+    },
+    {
+      "id": "uma-descendants",
+      "name": "Uma (Descendentes)",
+      "image_file": "uma-descendants.webp",
+      "image_url": null,
+      "image_status": "active"
     }
   ]
 }
